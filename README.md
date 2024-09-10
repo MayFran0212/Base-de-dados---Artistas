@@ -10,6 +10,8 @@ Mergulhe no universo da arte e explore a vida e obra de seus artistas favoritos.
 * **Explorar obras de arte detalhadamente:** Conheça a história por trás de cada pincelada.
 * **Salvar seus artistas favoritos:** Crie sua própria coleção personalizada.
 
+* **Acesse o projeto por esse link da vercel: https://base-de-dados-artistas.vercel.app/** 
+
 **Tecnologias:**
 
 * **Frontend:** React, Next.js, Material-UI
